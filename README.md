@@ -1,5 +1,5 @@
-## Desafio GO
-### Sobre o Desafio
+## DCE - Desafio Code Education
+### Desafio
 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 
